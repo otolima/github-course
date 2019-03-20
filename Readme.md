@@ -6,3 +6,5 @@ oi
 
 
 O curso tá andando!
+
+Mais informações
