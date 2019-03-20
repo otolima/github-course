@@ -8,3 +8,5 @@ oi
 O curso tá andando!
 
 Mais informações
+
+Enviando modificações para o Git Hub.
